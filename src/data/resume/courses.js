@@ -20,8 +20,7 @@ const courses = [
   {
     title: 'Numerical Linear Algebra',
     number: 'CME 302',
-    link:
-      'http://scpd.stanford.edu/search/publicCourseSearchDetails.do;jsessionid=561188A06434D7D97953C4706DE12831?method=load&courseId=11685',
+    link: 'http://scpd.stanford.edu/search/publicCourseSearchDetails.do;jsessionid=561188A06434D7D97953C4706DE12831?method=load&courseId=11685',
     university: 'Stanford',
   },
   {
@@ -31,7 +30,7 @@ const courses = [
     university: 'Stanford',
   },
   {
-    title: 'Discrete Mathematics and Algorithms',
+    title: 'Discrete Mathematics and Algorithms ',
     number: 'CME 305',
     link: 'http://stanford.edu/~rezab/discrete/',
     university: 'Stanford',
@@ -69,8 +68,7 @@ const courses = [
   {
     title: 'Design Theory and Methodology',
     number: 'MAE 397',
-    link:
-      'https://web.stanford.edu/group/designx_lab/cgi-bin/mainwiki/index.php/ME397_Design_Theory_%26_Methodology_Seminar',
+    link: 'https://web.stanford.edu/group/designx_lab/cgi-bin/mainwiki/index.php/ME397_Design_Theory_%26_Methodology_Seminar',
     university: 'Stanford',
   },
   {
