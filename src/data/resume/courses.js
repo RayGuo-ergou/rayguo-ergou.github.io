@@ -30,7 +30,7 @@ const courses = [
     university: 'Stanford',
   },
   {
-    title: 'Discrete Mathematics and Algorithms ',
+    title: 'Discrete Mathematics and Algorithms',
     number: 'CME 305',
     link: 'http://stanford.edu/~rezab/discrete/',
     university: 'Stanford',
