@@ -46,5 +46,5 @@
       }
     ]
   },
-  "plugins": ["react"]
+  "plugins": ["react", "jsx", "flow", "typescript"]
 }
